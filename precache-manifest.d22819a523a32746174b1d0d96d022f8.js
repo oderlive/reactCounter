@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c04ccffc07b00882f2d7",
+    "revision": "aaf4b36bd8186663c6dd",
     "url": "/oderlive/reactCounter.git/static/css/main.8b9204a3.chunk.css"
   },
   {
-    "revision": "c04ccffc07b00882f2d7",
-    "url": "/oderlive/reactCounter.git/static/js/main.c04ccffc.chunk.js"
+    "revision": "aaf4b36bd8186663c6dd",
+    "url": "/oderlive/reactCounter.git/static/js/main.aaf4b36b.chunk.js"
   },
   {
     "revision": "67911696f9bf7b2e8777",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/oderlive/reactCounter.git/static/js/runtime~main.b1560a1a.js"
   },
   {
-    "revision": "f72b3b86dc2fb1abba1f732d5df4db31",
+    "revision": "54ee78389f1f86d41889e2330ef8e477",
     "url": "/oderlive/reactCounter.git/index.html"
   }
 ];

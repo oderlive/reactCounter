@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oderlive/reactCounter.git/precache-manifest.f7d250b2f3df6eb9142d8ba982011ff7.js"
+  "/oderlive/reactCounter.git/precache-manifest.d22819a523a32746174b1d0d96d022f8.js"
 );
 
 workbox.clientsClaim();
